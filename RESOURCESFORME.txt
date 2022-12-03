@@ -1,0 +1,15 @@
+1. TWITTER PUBLIC APIS RESOURCE<FREE> **
+(https://twitter.com/ravikmmr/status/1598689450238050305?t=SY7XGibToudKhhfnTkhOXA&s=03)
+
+2.A COOL SIGNUP FORM<Spectre, James bond sign up form>
+(https://codepen.io/alexdevero/pen/vNRqLL)
+
+3.How to configure Django to use a MySql database
+(https://docs.appseed.us/content/how-to/use-mysql-with-django)
+
+4.DETAILED PUBLIC API RESOURCE
+(https://github.com/public-apis/public-apis?s=03#entertainment)
+ 
+5.WEB HOSTING RESOURCES
+(https://twitter.com/NikkiSiapno/status/1598565614225952769?t=dzzYfahqqMgIrJPZUleJMA&s=03) 
+
